@@ -34,7 +34,7 @@
   "devDependencies": {
     "standard": "^16.0.3",
     "standard-version": "^9.1.0",
-    "tap": "^14.11.0"
+    "tap": "^18.6.1"
   },
   "files": [
     "index.js",
